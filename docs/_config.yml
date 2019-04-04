@@ -1,0 +1,26 @@
+remote_theme: pmarsceill/just-the-docs
+
+
+title: "ANW1: DialMod"
+
+email: david.schlangen@uni-potsdam.de
+
+description: >- # this means to ignore newlines until "baseurl:"
+  Kursseite für ANW1: Praktische Dialogmodellierung
+
+search_enabled: true
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+
+aux_links:
+  "All Classes":
+  - "//github.com/compling-potsdam"
+
+permalink: pretty
+
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+
