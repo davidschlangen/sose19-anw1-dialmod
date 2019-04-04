@@ -14,7 +14,7 @@ nav_order: 1
 | Sprechstunde | Dienstags, 17-18h |
 | Sitzungen    | Mittwochs, 10-12h           |
 | Raum   |                           |
-| Website| <http://github.org/something>
+| Website| <https://compling-potsdam.github.io/sose19-anw1-dialmod/> |
 
 
 
