@@ -75,4 +75,4 @@ Einzelne, außerplanmäßige Abwesenheiten müssen nicht gesondert angekündigt 
 
 ### E-mail
 
-Ich versuche, auf E-Mails relativ schnell zu antworten (innerhalb von 3 Geschäftstagen). Ich bitte aber darum, 
+Ich versuche, auf E-Mails relativ schnell zu antworten (innerhalb von 3 Geschäftstagen). Ich bitte aber darum, Fragen nach Möglichkeit in der Sitzung oder über das Forum zu stellen, so dass alle davon profitieren können.
