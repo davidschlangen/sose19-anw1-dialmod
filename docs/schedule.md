@@ -10,7 +10,7 @@ nav_order: 2
 
 | Woche | Datum | Thema |
 |:------:|:------:|-----------|------|
-01 | 2019-04-10 | Organisatorisches. Dialog als sprachliches Phänomen. (Interaktiv; Vorlesung)|
+01 | 2019-04-10 | Organisatorisches. Dialog als sprachliches Phänomen. (Interaktiv; Vorlesung) [Material](https://github.com/compling-potsdam/sose19-anw1-dialmod/blob/master/material/01)|
 02 | 2019-04-17 | Dialog als technische Aufgabe: Dialogsysteme. (Interaktiv; Vorlesung) |
 03 | 2019-04-24 | Dialogsysteme. NLU. (Vorlesung; praktisches Arbeiten) |
 04 | 2019-05-01 | *Feiertag, keine Sitzung* |

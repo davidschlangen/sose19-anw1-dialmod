@@ -6,4 +6,4 @@ nav_order: 3
 
 # Discussions
 
-.. via <http://piazza.org>
+.. via <piazza.com/uni-potsdam.de/spring2019/baclanw1>
