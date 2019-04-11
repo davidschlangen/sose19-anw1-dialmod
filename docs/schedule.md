@@ -21,7 +21,7 @@ nav_order: 2
 09 | 2019-06-05 | Vorbesprechung eigene Projekte |
 10 | 2019-06-12 | (praktisches Arbeiten) |
 11 | 2019-06-19 | (praktisches Arbeiten) |
-12 | 2019-06-26 | verschoben auf 16-18h, [Milica Gasic](http://mi.eng.cam.ac.uk/~mg436/) (Düsseldorf) im Kolloquium, Thema "statistical dialogue management"|
+12 | 2019-06-26 | Gastrednerin [Milica Gasic](http://mi.eng.cam.ac.uk/~mg436/) (Düsseldorf) gemeinsam mit CL-Kolloquium, Thema "statistical dialogue management" (Achtung: Doch in der normalen Zeit, 10-12.)|
 13 | 2019-07-03 | (praktisches Arbeiten) |
 14 | 2019-07-10 | (praktisches Arbeiten) |
 15 | 2019-07-17 | Vorstellung der Projekte, Abschluss |
