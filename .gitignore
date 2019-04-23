@@ -4,5 +4,5 @@ _site/
 .jekyll-metadata
 Gemfile.lock
 _Data/
-_dstc_scripts/
+_dstc2_scripts/
 .ipynb_checkpoints/
